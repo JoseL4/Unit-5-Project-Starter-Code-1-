@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Arial', sans-serif;
+  background-color: green;
+  text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.messages {
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+    display: none;
+}
+
+.results, .section2{
+  display: none;
+}
